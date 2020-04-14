@@ -1,0 +1,9 @@
+{
+  "name": "duo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@traveloka/district-i18n": "^1.1.2"
+  }
+}

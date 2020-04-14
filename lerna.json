@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "packages/mobile",
+    "packages/mobile/duo",
+    "packages/mobile/shared"
+  ],
+  "version": "0.0.0",
+  "npmClient": "yarn"
+}

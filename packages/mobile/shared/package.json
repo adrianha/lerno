@@ -1,0 +1,15 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "@traveloka/district-fetcher": "^0.1.0",
+    "@traveloka/district-util": "^3.0.0",
+    "rn-placeholder": "^3.0.0"
+  }
+}
